@@ -154,7 +154,7 @@ A Spring Boot backend API for a basic Flight Management System that designed to 
   <img src="https://github.com/elifnurafsar/xxx/assets/60623941/0b8dbbd4-c6ee-44ac-8418-58aa257cb44a" width="800" alt="Scheduled job test passed screenshot."/>
 </p>
 
-[You Tube video link](https://youtu.be/CZRvubpT_-k)
+[YouTube video link](https://youtu.be/CZRvubpT_-k)
 
 
 ### Swagger Documentation 
